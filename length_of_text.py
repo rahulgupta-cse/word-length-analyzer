@@ -2,6 +2,14 @@
 
 #Defing the function
 def wordlen(lineoftext):
+    #logic to find the length
+    word = lineoftext.split()
+    print("-" * 30)
+    for i in word:
+        print("\tlen({}) is {}".format(i,len(i)))
+    print("-" * 50) #decoration part
+    print("Total length of Text with space: =",len(lineoftext))
+    print("-" * 50)
 
 #main Program
 while True:
