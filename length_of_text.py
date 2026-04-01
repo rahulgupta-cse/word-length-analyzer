@@ -1,5 +1,8 @@
 #Program to find length of each word from line of Text
 
+#Defing the function
+def wordlen(lineoftext):
+
 #main Program
 while True:
     #Checking criteria of Line of Text
