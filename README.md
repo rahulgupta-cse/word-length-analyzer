@@ -1,4 +1,4 @@
-                     Word Length Analyzer (Python)
+                                       Word Length Analyzer (Python)
 Overview 
 
 This is a simple Python program that takes a line of text as input and calculates:
@@ -53,6 +53,7 @@ Ignore punctuation
 Count number of words
 Display longest and shortest word
 GUI version using Tkinter
+
 👨‍💻 Author
 
 Rahul Gupta
