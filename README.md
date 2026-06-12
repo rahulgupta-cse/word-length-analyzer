@@ -15,7 +15,7 @@ Shows total length of the full text (with spaces)
 User-friendly loop to continue or exit the program
 
 Technologies Used
-Python 3
+Python 3.0 +
 Built-in libraries (sys)
 Program Structure
 Function: wordlen(lineoftext)
@@ -52,6 +52,7 @@ Program will prompt again if input is blank
 Ignore punctuation
 Count number of words
 Display longest and shortest word
+Find and Display mistake in the text
 GUI version using Tkinter
 
 👨‍💻 Author
